@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Bitter', serif;
+
+}
+
+.backImg{
+	width: 100%;
+	height: 100vh;
+	background-image: url("b.jpg");
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: blue
+}
+.profile{
+	width: 400px;
+	background-color: rgba(0,0,0,0.1);
+	padding: 30px 0;
+	border-radius: 10%;
+	margin-bottom: 10px;
+
+}
+img{
+	height: 250px;
+	border-radius: 70%;
+
+.profiletext h2{
+	font-size: 2em;
+	font-weight: 500;
+	margin-bottom: 10px;
+}
